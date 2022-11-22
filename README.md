@@ -4,7 +4,7 @@
 
 ![Calculator Home](https://github.com/becca-mayers/female-options-app/blob/29e0a263b849bac082f11deb596bbd0db750dca7/imgs/app-hero.png)
 
-![Calculator Widgets](https://github.com/becca-mayers/female-options-app/blob/1e977dc8ba25cab42cb4e7f2a69c082374a49cb9/imgs/app-widgets.png)
+![Calculator Widgets](https://github.com/becca-mayers/female-options-app/blob/29142e20a82e31a171639a1d86d804f104e976b9/imgs/app-widgets.png)
 
 
 # The Data
