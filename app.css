@@ -1,7 +1,12 @@
 div.stButton > button:first-child {
+    	font-size: 33px;
+    	padding: 12px 37px;
+    }
+
+div.gButton > button:first-child {
     	background-color: #4530ba;
     	border-radius: 6px;
-    	border: 1px solid #4e6096;
+    	border: 0px solid #4530ba;
     	display: inline-block;
     	cursor: pointer;
     	color: #ffffff;
@@ -9,15 +14,60 @@ div.stButton > button:first-child {
     	font-size: 33px;
     	padding: 12px 37px;
     	text-decoration: none;
-    	text-shadow: 0px 1px 0px #283966;
+    	text-shadow: 0px 1px 0px #ffffff;
     }
-    
-div.stButton > button:hover {
+        
+div.gButton > button:hover {
     	background-color: #4530ba;
     }
     
-div.stButton > button:active {
+div.gButton > button:active {
+    	position: relative;
+    	top: 1px;  	
+    }
+}
+
+.jumbotron {
+    background-color: #e9ebf0; 
+    padding: 6px 6px 6px 0px; 
+    border-radius: 6px; 
+    border: 1px solid #d0d5db;
+    display: inline-block;
+	cursor: pointer;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #ffffff;}
+
+.jumbotron > hover {
+ 	background-color: #d0d4db;
+    }
+    
+.jumbotron > active {
     	position: relative;
     	top: 1px;
     }
 }
+	
+.jumbo-title {	
+	text-align: center; 
+	background-color: #e9ebf0; 
+	padding: 6px 6px 6px 0px; 
+	font-size: 20px; 
+	font-weight: italic; 
+	font-family: sans-serif;
+	color: #000}
+
+.jumbo-title > hover {
+ 	background-color: #d0d4db;
+    }
+
+.jumbo-metric {	
+	text-align: center; 
+	background-color: #e9ebf0; 
+	font-size: 35px; 
+	font-weight: normal;
+	font-family: times; 
+	color: #000}
+
+.jumbo-title > hover {
+ 	background-color: #d0d4db;
+    }
