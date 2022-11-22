@@ -120,13 +120,15 @@ st.markdown('''---''')
 # Filter Widgets
 
 #%% Preferences & Exclusions
-ccol1, ccol2, ccol3 = st.columns(3)
+ccol1, ccol2, ccol3, col4 = st.columns(4)
 with ccol1:
     st.write('**Partner Gender Preference**')
 with ccol2:
     st.write('')
 with ccol3:
     st.write('**Exclusions**')
+with col4:
+    st.write('')
     
 pcol1, pcol2, pcol3, pcol4 = st.columns(4)
 with pcol1:    
