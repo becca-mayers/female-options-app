@@ -6,7 +6,6 @@ Created on Sat Nov 19 08:32:11 2022
 @author: rebecca
 """
 
-import hydralit_components as hc
 from sqlite3 import connect
 import streamlit as st
 from PIL import Image
