@@ -1,5 +1,5 @@
 # 🤹‍♀️ Female Options Calculator
-#### The accurate alternative to the Female Delusion Calculator.
+*The accurate alternative to the Female Delusion Calculator.*
 
 
 ![Calculator Home](https://github.com/becca-mayers/female-options-app/blob/main/imgs/app-hero.png)
