@@ -21,7 +21,7 @@ All variables came from the [2020 CDC National Health Interview Survey (NHIS)](h
     - Codes 2, 10, 11, and 12 are flagged as Black
     - Codes 3, 4, 5, 13, 14, and 15 are flagged as Asian
     - All remaining codes are flagged as Other
----
+
 ## Widgets
 + Age ranges from 18 to 85
 + Height range dependent on partner's gender preference  
