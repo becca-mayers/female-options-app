@@ -4,7 +4,8 @@
 
 ![Calculator Home](https://github.com/becca-mayers/female-options-app/blob/main/imgs/app-hero.png)
 
-![Calculator Widgets](https://github.com/becca-mayers/female-options-app/blob/main/imgs/app-widgets.png)
+![Calculator Widgets](https://github.com/becca-mayers/female-options-app/blob/1e977dc8ba25cab42cb4e7f2a69c082374a49cb9/imgs/app-widgets.png)
+
 
 # The Data
 All variables came from the [2020 CDC National Health Interview Survey (NHIS)](https://www.cdc.gov/nchs/nhis/2020nhis.htm) data. 
