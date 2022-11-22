@@ -2,7 +2,7 @@
 *The accurate alternative to the Female Delusion Calculator.*
 
 
-![Calculator Home](https://github.com/becca-mayers/female-options-app/blob/36f51dd7d86f141eca107a0ca5787434190ca6a0/imgs/app-hero.png)
+![Calculator Home](https://github.com/becca-mayers/female-options-app/blob/29e0a263b849bac082f11deb596bbd0db750dca7/imgs/app-hero.png)
 
 ![Calculator Widgets](https://github.com/becca-mayers/female-options-app/blob/1e977dc8ba25cab42cb4e7f2a69c082374a49cb9/imgs/app-widgets.png)
 
